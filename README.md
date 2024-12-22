@@ -10,8 +10,6 @@ This is a simple Android application built using Jetpack Compose that demonstrat
 
 ## Screenshots
 
-## Screenshots
-
 ![Compose Quadrant Layout](images/compose-quadrant-layout.png)
 
 
