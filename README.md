@@ -10,7 +10,9 @@ This is a simple Android application built using Jetpack Compose that demonstrat
 
 ## Screenshots
 
-![Compose Quadrant Layout](images/Compose Quadrant Layout .png)
+## Screenshots
+
+![Compose Quadrant Layout](images/compose-quadrant-layout.png)
 
 
 ## Installation
